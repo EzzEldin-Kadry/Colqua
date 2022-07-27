@@ -1,5 +1,5 @@
 # Colqua
- 2D Puzzle Board, Repair The Picture Colors
+ 2D Puzzle Board, Repair The Picture Colors, implemented in (2020)
 ## Description
 A global game jam (2020) demo game which was made in 48 hours.
 You have a picture with uncompleted colors and you have to fix it! The goal is to repair the picture colors to be the same as the original picture. You are controlling a ball painter which can be colored by the primary colors(Red - Blue), it cannot be colored by a mixed color directly but you can mix the red and blue colors to get purple. 
